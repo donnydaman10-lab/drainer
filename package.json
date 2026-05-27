@@ -1,0 +1,1 @@
+{"name":"drainer","version":"1.0.0","scripts":{"start":"node server.js"},"dependencies":{"express":"*","multer":"*","ethers":"*","@solana/web3.js":"*","bs58":"*"}}
